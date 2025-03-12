@@ -1,3 +1,0 @@
-naruto
-sasukae
-sakura
