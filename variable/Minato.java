@@ -1,0 +1,3 @@
+kakashi
+obito
+rin
