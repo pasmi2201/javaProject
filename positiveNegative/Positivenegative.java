@@ -9,7 +9,7 @@ public class Positivenegative
         }
         else if(num==0)
         {
-            System.out.println("The number is mutual number");
+            System.out.println("The number is neutral number");
         }
         else{
             System.out.println("The number is negative");
