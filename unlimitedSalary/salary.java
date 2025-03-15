@@ -4,16 +4,14 @@ public class salary
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
-        System.out.println("\n1.Developer\n2.Manager");
-        System.out.println("Enter the value of n:");
-        int n=sc.nextInt();
         int j=1;
-        while(j<=n)
+        while(true)
         {
-             System.out.println("Enter the chice:");
-        int i=sc.nextInt();
-        System.out.println("Enter the slary:");
-        int salary=sc.nextInt();
+            System.out.println("\n1.Developer\n2.Manager");
+            System.out.println("Enter the chice:");
+            int i=sc.nextInt();
+            System.out.println("Enter the slary:");
+            int salary=sc.nextInt();
 
         if(i==1)
         {
